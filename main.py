@@ -1,0 +1,1 @@
+print("Hello, Crop Disease Detection!")
